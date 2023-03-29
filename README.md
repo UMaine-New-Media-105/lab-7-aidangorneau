@@ -2,3 +2,5 @@
 
 assignment 1 link - https://editor.p5js.org/aidan.gorneau/sketches/11MuvnGIq
 for this assignment, I made 12 squares from a loop that each move down one whole square every new time one is called, and each new square is a random color from the array. 
+assignment 2 link - https://editor.p5js.org/aidan.gorneau/sketches/8MnIVts8Gg
+for this assignment, I made a 12x12 grid of squares from nested loops that have a gradient moving from top left to bottom right in shades of green and blue based on the squares x and y position. 
